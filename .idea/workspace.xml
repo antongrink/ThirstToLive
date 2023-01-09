@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1ec20e5-2463-4f1a-971b-e8cce0932527" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Private/Character/TTLPlayerController.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Private/Components/InventoryComponent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Private/Inventory/DB/InventoryItem.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Private/Inventory/InventoryItems/AutoPickup.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Private/Inventory/InventoryItems/Interactable.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Private/Inventory/InventoryItems/ItemBase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Private/Inventory/InventoryItems/ManPickup.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Private/Inventory/InventoryItems/MoneyAutoPickup.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Private/TTLGameState.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Public/Character/TTLPlayerController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Public/Components/InventoryComponent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Public/Inventory/DB/InventoryItem.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Public/Inventory/InventoryItems/AutoPickup.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Public/Inventory/InventoryItems/Interactable.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Public/Inventory/InventoryItems/ItemBase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Public/Inventory/InventoryItems/ManPickup.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Public/Inventory/InventoryItems/MoneyAutoPickup.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ThirstToLive/Public/TTLGameState.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ThirstToLive/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ThirstToLive/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ThirstToLive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ThirstToLive/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/GameMode/ThirstToLiveGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/GameMode/ThirstToLiveGameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/ThirstToLiveMainCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/ThirstToLiveMainCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/OpenWorld.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/OpenWorld.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ThirstToLive.Target.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ThirstToLive.Target.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ThirstToLive/Private/ThirstToLiveMainCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ThirstToLive/Private/Character/ThirstToLiveMainCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ThirstToLive/Public/ThirstToLiveMainCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ThirstToLive/Public/Character/ThirstToLiveMainCharacter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ThirstToLive/ThirstToLive.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ThirstToLive/ThirstToLive.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ThirstToLive/ThirstToLive.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ThirstToLive/ThirstToLive.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ThirstToLive/ThirstToLive.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ThirstToLive/ThirstToLive.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ThirstToLive/ThirstToLiveGameModeBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ThirstToLive/ThirstToLiveGameModeBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ThirstToLive/ThirstToLiveGameModeBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ThirstToLive/ThirstToLiveGameModeBase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ThirstToLiveEditor.Target.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ThirstToLiveEditor.Target.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThirstToLive.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/ThirstToLive.uproject" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2K0armPe8Ly5AoGBfxo0jKludYC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1ec20e5-2463-4f1a-971b-e8cce0932527" name="Changes" comment="" />
+      <created>1673114157592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673114157592</updated>
+      <workItem from="1673114160130" duration="8000" />
+      <workItem from="1673173791886" duration="4000" />
+      <workItem from="1673173996555" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
